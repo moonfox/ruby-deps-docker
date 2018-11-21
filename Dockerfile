@@ -1,6 +1,6 @@
 FROM ruby:2.5.3-alpine3.8
 
-LABEL Name=rubydeps Version=0.0.1
+LABEL Name=ruby-deps Version=0.0.1
 # EXPOSE 3000
 
 # throw errors if Gemfile has been modified since Gemfile.lock
